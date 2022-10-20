@@ -1,7 +1,6 @@
 #1
 print("cat")
 print("danielle")
-print()
 #2
 print(" Hello Enter your adress: ")
 print("hod hasharon")
